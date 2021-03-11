@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello2 gitw
+=======
+hello2 git feature q
+>>>>>>> feature
